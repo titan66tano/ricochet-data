@@ -13,3 +13,9 @@
 {"type":"snap","t":1794188315046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
 {"type":"snap","t":1794192515046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
 {"type":"snap","t":1794196715046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
+{"n":11,"t":1794199773135,"type":"join","name":"John","online":1}
+{"n":12,"t":1794199793210,"type":"death","name":"John","survived":20,"kills":0,"by":"hazard"}
+{"n":13,"t":1794199823910,"type":"death","name":"John","survived":28,"kills":4,"by":"bot"}
+{"n":14,"t":1794199862009,"type":"death","name":"John","survived":35,"kills":9,"by":"hazard"}
+{"n":15,"t":1794199866576,"type":"leave","name":"John","sessionSec":93}
+{"type":"snap","t":1794200315045,"startedAt":1794187115040,"online":0,"rooms":1,"joins":4,"deaths":6,"leaves":4,"peakOnline":1}
