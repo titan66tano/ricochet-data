@@ -77,3 +77,7 @@
 {"n":54,"t":1794256564403,"type":"death","name":"Goaty","survived":20,"kills":1,"by":"bot"}
 {"n":55,"t":1794256569504,"type":"leave","name":"Goaty","sessionSec":598}
 {"type":"snap","t":1794256715053,"startedAt":1794187115040,"online":0,"rooms":1,"joins":6,"deaths":42,"leaves":6,"peakOnline":1}
+{"n":56,"t":1794256748204,"type":"join","name":"Goaty","online":1}
+{"n":57,"t":1794256844936,"type":"death","name":"Goaty","survived":96,"kills":17,"by":"hazard"}
+{"n":58,"t":1794256855303,"type":"leave","name":"Goaty","sessionSec":107}
+{"type":"snap","t":1794257315054,"startedAt":1794187115040,"online":0,"rooms":1,"joins":7,"deaths":43,"leaves":7,"peakOnline":1}
