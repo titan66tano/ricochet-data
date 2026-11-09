@@ -1,2 +1,9 @@
 {"n":1,"t":1794187115046,"type":"server_start"}
 {"type":"snap","t":1794187130046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":0,"deaths":0,"leaves":0,"peakOnline":0}
+{"n":2,"t":1794187188709,"type":"join","name":"John","online":1}
+{"n":3,"t":1794187231739,"type":"death","name":"John","survived":43,"kills":7,"by":"hazard"}
+{"n":4,"t":1794187234408,"type":"leave","name":"John","sessionSec":45}
+{"n":5,"t":1794187259038,"type":"join","name":"Palmer","online":1}
+{"n":6,"t":1794187278706,"type":"death","name":"Palmer","survived":19,"kills":4,"by":"hazard"}
+{"n":7,"t":1794187281972,"type":"leave","name":"Palmer","sessionSec":22}
+{"type":"snap","t":1794187715046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":2,"deaths":2,"leaves":2,"peakOnline":1}
