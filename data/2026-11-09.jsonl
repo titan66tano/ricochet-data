@@ -7,3 +7,7 @@
 {"n":6,"t":1794187278706,"type":"death","name":"Palmer","survived":19,"kills":4,"by":"hazard"}
 {"n":7,"t":1794187281972,"type":"leave","name":"Palmer","sessionSec":22}
 {"type":"snap","t":1794187715046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":2,"deaths":2,"leaves":2,"peakOnline":1}
+{"n":8,"t":1794187769903,"type":"join","name":"John","online":1}
+{"n":9,"t":1794187780871,"type":"death","name":"John","survived":10,"kills":1,"by":"hazard"}
+{"n":10,"t":1794187782506,"type":"leave","name":"John","sessionSec":12}
+{"type":"snap","t":1794188315046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
