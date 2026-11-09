@@ -33,3 +33,16 @@
 {"type":"snap","t":1794244715052,"startedAt":1794187115040,"online":0,"rooms":1,"joins":4,"deaths":6,"leaves":4,"peakOnline":1}
 {"type":"snap","t":1794248315052,"startedAt":1794187115040,"online":0,"rooms":1,"joins":4,"deaths":6,"leaves":4,"peakOnline":1}
 {"type":"snap","t":1794251915053,"startedAt":1794187115040,"online":0,"rooms":1,"joins":4,"deaths":6,"leaves":4,"peakOnline":1}
+{"n":16,"t":1794254518475,"type":"join","name":"edna","online":1}
+{"n":17,"t":1794254524475,"type":"death","name":"edna","survived":6,"kills":1,"by":"bot"}
+{"n":18,"t":1794254567776,"type":"death","name":"Goaty","survived":31,"kills":3,"by":"bot"}
+{"n":19,"t":1794254578475,"type":"death","name":"Goaty","survived":6,"kills":1,"by":"bot"}
+{"n":20,"t":1794254586341,"type":"death","name":"Goaty","survived":4,"kills":0,"by":"hazard"}
+{"n":21,"t":1794254597308,"type":"death","name":"Goaty","survived":8,"kills":0,"by":"hazard"}
+{"n":22,"t":1794254616108,"type":"death","name":"Goaty","survived":11,"kills":1,"by":"hazard"}
+{"n":23,"t":1794254630341,"type":"death","name":"Goaty","survived":10,"kills":0,"by":"bot"}
+{"n":24,"t":1794254635741,"type":"death","name":"Goaty","survived":2,"kills":0,"by":"bot"}
+{"n":25,"t":1794254641676,"type":"death","name":"Goaty","survived":0,"kills":0,"by":"hazard"}
+{"n":26,"t":1794254680875,"type":"death","name":"Goaty","survived":36,"kills":7,"by":"hazard"}
+{"n":27,"t":1794254771608,"type":"death","name":"Goaty","survived":85,"kills":20,"by":"hazard"}
+{"type":"snap","t":1794254915053,"startedAt":1794187115040,"online":1,"rooms":1,"joins":5,"deaths":17,"leaves":4,"peakOnline":1}
