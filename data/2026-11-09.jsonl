@@ -11,3 +11,4 @@
 {"n":9,"t":1794187780871,"type":"death","name":"John","survived":10,"kills":1,"by":"hazard"}
 {"n":10,"t":1794187782506,"type":"leave","name":"John","sessionSec":12}
 {"type":"snap","t":1794188315046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
+{"type":"snap","t":1794192515046,"startedAt":1794187115040,"online":0,"rooms":1,"joins":3,"deaths":3,"leaves":3,"peakOnline":1}
