@@ -86,3 +86,7 @@
 {"n":149,"t":1794319625416,"type":"death","name":"Goaty","survived":3,"kills":0,"by":"hazard"}
 {"n":150,"t":1794319627893,"type":"leave","name":"Goaty","sessionSec":1123}
 {"type":"snap","t":1794319715077,"startedAt":1794187115040,"online":0,"rooms":1,"joins":11,"deaths":127,"leaves":11,"peakOnline":1}
+{"n":151,"t":1794319944433,"type":"join","name":"John","online":1}
+{"n":152,"t":1794320008482,"type":"death","name":"John","survived":64,"kills":11,"by":"hazard"}
+{"n":153,"t":1794320014116,"type":"leave","name":"John","sessionSec":69}
+{"type":"snap","t":1794320315078,"startedAt":1794187115040,"online":0,"rooms":1,"joins":12,"deaths":128,"leaves":12,"peakOnline":1}
