@@ -90,3 +90,11 @@
 {"n":152,"t":1794320008482,"type":"death","name":"John","survived":64,"kills":11,"by":"hazard"}
 {"n":153,"t":1794320014116,"type":"leave","name":"John","sessionSec":69}
 {"type":"snap","t":1794320315078,"startedAt":1794187115040,"online":0,"rooms":1,"joins":12,"deaths":128,"leaves":12,"peakOnline":1}
+{"n":154,"t":1794321132310,"type":"join","name":"Goaty","online":1}
+{"n":155,"t":1794321191879,"type":"death","name":"Goaty","survived":59,"kills":10,"by":"hazard"}
+{"n":156,"t":1794321201346,"type":"death","name":"Goaty","survived":6,"kills":0,"by":"bot"}
+{"n":157,"t":1794321205079,"type":"death","name":"Goaty","survived":0,"kills":0,"by":"bot"}
+{"n":158,"t":1794321209712,"type":"death","name":"Goaty","survived":2,"kills":0,"by":"bot"}
+{"n":159,"t":1794321241012,"type":"death","name":"Goaty","survived":28,"kills":3,"by":"bot"}
+{"n":160,"t":1794321251780,"type":"leave","name":"Goaty","sessionSec":119}
+{"type":"snap","t":1794321515077,"startedAt":1794187115040,"online":0,"rooms":1,"joins":13,"deaths":133,"leaves":13,"peakOnline":1}
