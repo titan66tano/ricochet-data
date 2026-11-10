@@ -45,3 +45,6 @@
 {"type":"snap","t":1794308915075,"startedAt":1794187115040,"online":0,"rooms":1,"joins":10,"deaths":91,"leaves":10,"peakOnline":1}
 {"type":"snap","t":1794312515076,"startedAt":1794187115040,"online":0,"rooms":1,"joins":10,"deaths":91,"leaves":10,"peakOnline":1}
 {"type":"snap","t":1794316115076,"startedAt":1794187115040,"online":0,"rooms":1,"joins":10,"deaths":91,"leaves":10,"peakOnline":1}
+{"n":113,"t":1794318504851,"type":"join","name":"Goaty","online":1}
+{"n":114,"t":1794318505785,"type":"death","name":"Goaty","survived":0,"kills":0,"by":"hazard"}
+{"type":"snap","t":1794318515077,"startedAt":1794187115040,"online":1,"rooms":1,"joins":11,"deaths":92,"leaves":10,"peakOnline":1}
