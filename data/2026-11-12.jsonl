@@ -274,3 +274,14 @@
 {"n":54,"t":1794519139733,"type":"leave","name":"Palmer","sessionSec":776}
 {"type":"snap","t":1794519237998,"startedAt":1794487437985,"online":0,"rooms":1,"joins":11,"deaths":31,"leaves":11,"peakOnline":1}
 {"type":"snap","t":1794522837998,"startedAt":1794487437985,"online":0,"rooms":1,"joins":11,"deaths":31,"leaves":11,"peakOnline":1}
+{"n":55,"t":1794524693442,"type":"join","name":"BillY","online":1}
+{"n":56,"t":1794524698085,"type":"death","name":"BillY","survived":4,"kills":1,"by":"hazard"}
+{"n":57,"t":1794524805352,"type":"death","name":"BillY","survived":102,"kills":18,"by":"hazard"}
+{"n":58,"t":1794524827386,"type":"death","name":"BillY","survived":18,"kills":1,"by":"hazard"}
+{"n":59,"t":1794524882652,"type":"death","name":"BillY","survived":51,"kills":7,"by":"hazard"}
+{"n":60,"t":1794524887252,"type":"death","name":"BillY","survived":1,"kills":0,"by":"bot"}
+{"n":61,"t":1794524898219,"type":"death","name":"BillY","survived":7,"kills":0,"by":"bot"}
+{"n":62,"t":1794524958951,"type":"death","name":"BillY","survived":57,"kills":5,"by":"hazard"}
+{"n":63,"t":1794524973718,"type":"death","name":"BillY","survived":11,"kills":0,"by":"hazard"}
+{"n":64,"t":1794524981952,"type":"leave","name":"BillY","sessionSec":288}
+{"type":"snap","t":1794525237998,"startedAt":1794487437985,"online":0,"rooms":1,"joins":12,"deaths":39,"leaves":12,"peakOnline":1}
