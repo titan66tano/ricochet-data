@@ -273,3 +273,4 @@
 {"n":53,"t":1794519111933,"type":"death","name":"Palmer","survived":74,"kills":5,"by":"hazard"}
 {"n":54,"t":1794519139733,"type":"leave","name":"Palmer","sessionSec":776}
 {"type":"snap","t":1794519237998,"startedAt":1794487437985,"online":0,"rooms":1,"joins":11,"deaths":31,"leaves":11,"peakOnline":1}
+{"type":"snap","t":1794522837998,"startedAt":1794487437985,"online":0,"rooms":1,"joins":11,"deaths":31,"leaves":11,"peakOnline":1}
