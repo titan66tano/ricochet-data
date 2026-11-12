@@ -180,3 +180,14 @@
 {"n":341,"t":1794459479580,"type":"death","name":"Fred","survived":7,"kills":0,"by":"bot"}
 {"n":342,"t":1794459502280,"type":"death","name":"Fred","survived":17,"kills":1,"by":"hazard"}
 {"type":"snap","t":1794459515105,"startedAt":1794187115040,"online":3,"rooms":1,"joins":21,"deaths":302,"leaves":18,"peakOnline":3}
+{"n":343,"t":1794459534080,"type":"death","name":"Fred","survived":29,"kills":5,"by":"bot"}
+{"n":344,"t":1794459551280,"type":"death","name":"Fred","survived":14,"kills":2,"by":"hazard"}
+{"n":345,"t":1794459568247,"type":"death","name":"Fred","survived":14,"kills":1,"by":"hazard"}
+{"n":346,"t":1794459632713,"type":"death","name":"Fred","survived":26,"kills":0,"by":"hazard"}
+{"n":347,"t":1794459661513,"type":"death","name":"Fred","survived":26,"kills":1,"by":"hazard"}
+{"n":348,"t":1794459667313,"type":"death","name":"Fred","survived":3,"kills":0,"by":"bot"}
+{"n":349,"t":1794459742646,"type":"death","name":"Fred","survived":73,"kills":9,"by":"hazard"}
+{"n":350,"t":1794459750514,"type":"leave","name":"Fred","sessionSec":3479}
+{"n":351,"t":1794460028581,"type":"leave","name":"HiBdog","sessionSec":3635}
+{"n":352,"t":1794460040880,"type":"leave","name":"HiBdog","sessionSec":983}
+{"type":"snap","t":1794460115104,"startedAt":1794187115040,"online":0,"rooms":1,"joins":21,"deaths":309,"leaves":21,"peakOnline":3}
