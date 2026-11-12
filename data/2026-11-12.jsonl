@@ -225,3 +225,5 @@
 {"n":19,"t":1794490399910,"type":"death","name":"Fred","survived":4,"kills":0,"by":"bot"}
 {"n":20,"t":1794490405544,"type":"leave","name":"Fred","sessionSec":327}
 {"type":"snap","t":1794490437988,"startedAt":1794487437985,"online":0,"rooms":1,"joins":4,"deaths":11,"leaves":4,"peakOnline":1}
+{"n":21,"t":1794492824329,"type":"join","name":"Fred","online":1}
+{"type":"snap","t":1794492837989,"startedAt":1794487437985,"online":1,"rooms":1,"joins":5,"deaths":11,"leaves":4,"peakOnline":1}
