@@ -230,3 +230,10 @@
 {"n":22,"t":1794492880671,"type":"death","name":"Fred","survived":56,"kills":9,"by":"hazard"}
 {"n":23,"t":1794493173971,"type":"leave","name":"Fred","sessionSec":349}
 {"type":"snap","t":1794493437989,"startedAt":1794487437985,"online":0,"rooms":1,"joins":5,"deaths":12,"leaves":5,"peakOnline":1}
+{"n":24,"t":1794496473711,"type":"join","name":"Fred","online":1}
+{"n":25,"t":1794496489661,"type":"death","name":"Fred","survived":15,"kills":2,"by":"bot"}
+{"n":26,"t":1794496500028,"type":"death","name":"Fred","survived":1,"kills":0,"by":"hazard"}
+{"n":27,"t":1794496551429,"type":"death","name":"Fred","survived":48,"kills":7,"by":"hazard"}
+{"n":28,"t":1794496600128,"type":"death","name":"Fred","survived":45,"kills":12,"by":"bot"}
+{"n":29,"t":1794496609162,"type":"leave","name":"Fred","sessionSec":135}
+{"type":"snap","t":1794497037989,"startedAt":1794487437985,"online":0,"rooms":1,"joins":6,"deaths":16,"leaves":6,"peakOnline":1}
