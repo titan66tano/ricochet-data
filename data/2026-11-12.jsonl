@@ -238,3 +238,4 @@
 {"n":29,"t":1794496609162,"type":"leave","name":"Fred","sessionSec":135}
 {"type":"snap","t":1794497037989,"startedAt":1794487437985,"online":0,"rooms":1,"joins":6,"deaths":16,"leaves":6,"peakOnline":1}
 {"type":"snap","t":1794500637991,"startedAt":1794487437985,"online":0,"rooms":1,"joins":6,"deaths":16,"leaves":6,"peakOnline":1}
+{"type":"snap","t":1794504237993,"startedAt":1794487437985,"online":0,"rooms":1,"joins":6,"deaths":16,"leaves":6,"peakOnline":1}
