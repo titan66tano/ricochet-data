@@ -206,3 +206,7 @@
 {"n":3,"t":1794487654350,"type":"death","name":"Palmer","survived":46,"kills":11,"by":"hazard"}
 {"n":4,"t":1794487658284,"type":"leave","name":"Palmer","sessionSec":50}
 {"type":"snap","t":1794488037989,"startedAt":1794487437985,"online":0,"rooms":1,"joins":1,"deaths":1,"leaves":1,"peakOnline":1}
+{"n":5,"t":1794488422310,"type":"join","name":"Palmer","online":1}
+{"n":6,"t":1794488444582,"type":"death","name":"Palmer","survived":22,"kills":1,"by":"bot"}
+{"n":7,"t":1794488450015,"type":"leave","name":"Palmer","sessionSec":27}
+{"type":"snap","t":1794488637988,"startedAt":1794487437985,"online":0,"rooms":1,"joins":2,"deaths":2,"leaves":2,"peakOnline":1}
