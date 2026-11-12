@@ -261,3 +261,12 @@
 {"n":43,"t":1794516301273,"type":"death","name":"Fred","survived":45,"kills":2,"by":"hazard"}
 {"n":44,"t":1794516515140,"type":"leave","name":"Fred","sessionSec":286}
 {"type":"snap","t":1794516837997,"startedAt":1794487437985,"online":0,"rooms":1,"joins":9,"deaths":25,"leaves":9,"peakOnline":1}
+{"n":45,"t":1794518359152,"type":"join","name":"Palmer","online":1}
+{"n":46,"t":1794518359202,"type":"leave","name":"Palmer","sessionSec":0}
+{"n":47,"t":1794518363357,"type":"join","name":"Palmer","online":1}
+{"n":48,"t":1794518431602,"type":"death","name":"Palmer","survived":68,"kills":10,"by":"hazard"}
+{"n":49,"t":1794518462202,"type":"death","name":"Palmer","survived":13,"kills":1,"by":"hazard"}
+{"n":50,"t":1794518472001,"type":"death","name":"Palmer","survived":1,"kills":0,"by":"bot"}
+{"n":51,"t":1794518488734,"type":"death","name":"Palmer","survived":13,"kills":2,"by":"bot"}
+{"n":52,"t":1794518579268,"type":"death","name":"Palmer","survived":46,"kills":3,"by":"hazard"}
+{"type":"snap","t":1794518637999,"startedAt":1794487437985,"online":1,"rooms":1,"joins":11,"deaths":30,"leaves":10,"peakOnline":1}
