@@ -210,3 +210,7 @@
 {"n":6,"t":1794488444582,"type":"death","name":"Palmer","survived":22,"kills":1,"by":"bot"}
 {"n":7,"t":1794488450015,"type":"leave","name":"Palmer","sessionSec":27}
 {"type":"snap","t":1794488637988,"startedAt":1794487437985,"online":0,"rooms":1,"joins":2,"deaths":2,"leaves":2,"peakOnline":1}
+{"n":8,"t":1794489799154,"type":"join","name":"Fred","online":1}
+{"n":9,"t":1794489804945,"type":"death","name":"Fred","survived":5,"kills":1,"by":"bot"}
+{"n":10,"t":1794489817444,"type":"death","name":"Fred","survived":6,"kills":0,"by":"hazard"}
+{"type":"snap","t":1794489837989,"startedAt":1794487437985,"online":1,"rooms":1,"joins":3,"deaths":4,"leaves":2,"peakOnline":1}
