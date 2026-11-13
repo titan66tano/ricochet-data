@@ -96,3 +96,4 @@
 {"n":136,"t":1794584592212,"type":"death","name":"Fred","survived":34,"kills":3,"by":"hazard"}
 {"n":137,"t":1794584614346,"type":"leave","name":"Fred","sessionSec":634}
 {"type":"snap","t":1794584638020,"startedAt":1794487437985,"online":0,"rooms":1,"joins":19,"deaths":98,"leaves":19,"peakOnline":1}
+{"type":"snap","t":1794588238022,"startedAt":1794487437985,"online":0,"rooms":1,"joins":19,"deaths":98,"leaves":19,"peakOnline":1}
