@@ -1,1 +1,13 @@
 {"type":"snap","t":1794528838000,"startedAt":1794487437985,"online":0,"rooms":1,"joins":12,"deaths":39,"leaves":12,"peakOnline":1}
+{"n":65,"t":1794530422496,"type":"join","name":"Palmer Sucks","online":1}
+{"n":66,"t":1794530441006,"type":"death","name":"Palmer Sucks","survived":18,"kills":0,"by":"hazard"}
+{"n":67,"t":1794530456740,"type":"death","name":"Palmer Sucks","survived":11,"kills":1,"by":"bot"}
+{"n":68,"t":1794530508940,"type":"death","name":"Palmer Sucks","survived":48,"kills":8,"by":"bot"}
+{"n":69,"t":1794530524640,"type":"death","name":"Palmer Sucks","survived":11,"kills":1,"by":"bot"}
+{"n":70,"t":1794530528941,"type":"death","name":"Palmer Sucks","survived":1,"kills":0,"by":"bot"}
+{"n":71,"t":1794530550806,"type":"death","name":"Palmer Sucks","survived":19,"kills":0,"by":"hazard"}
+{"n":72,"t":1794530564206,"type":"death","name":"Palmer Sucks","survived":10,"kills":1,"by":"bot"}
+{"n":73,"t":1794530575741,"type":"death","name":"Palmer Sucks","survived":6,"kills":1,"by":"bot"}
+{"n":74,"t":1794530600973,"type":"death","name":"Palmer Sucks","survived":22,"kills":2,"by":"hazard"}
+{"n":75,"t":1794530634773,"type":"death","name":"Palmer Sucks","survived":31,"kills":2,"by":"hazard"}
+{"type":"snap","t":1794530638000,"startedAt":1794487437985,"online":1,"rooms":1,"joins":13,"deaths":49,"leaves":12,"peakOnline":1}
