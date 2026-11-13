@@ -46,3 +46,4 @@
 {"type":"snap","t":1794546838004,"startedAt":1794487437985,"online":1,"rooms":1,"joins":15,"deaths":70,"leaves":14,"peakOnline":1}
 {"n":101,"t":1794547467733,"type":"leave","name":"Fred","sessionSec":1531}
 {"type":"snap","t":1794548038005,"startedAt":1794487437985,"online":0,"rooms":1,"joins":15,"deaths":70,"leaves":15,"peakOnline":1}
+{"type":"snap","t":1794551638006,"startedAt":1794487437985,"online":0,"rooms":1,"joins":15,"deaths":70,"leaves":15,"peakOnline":1}
