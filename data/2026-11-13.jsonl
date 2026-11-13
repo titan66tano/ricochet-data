@@ -57,3 +57,6 @@
 {"n":108,"t":1794553687716,"type":"death","name":"Bruce47","survived":49,"kills":7,"by":"hazard"}
 {"n":109,"t":1794553693717,"type":"leave","name":"Bruce47","sessionSec":76}
 {"type":"snap","t":1794554038007,"startedAt":1794487437985,"online":0,"rooms":1,"joins":17,"deaths":74,"leaves":17,"peakOnline":1}
+{"n":110,"t":1794555208167,"type":"join","name":"don","online":1}
+{"n":111,"t":1794555233983,"type":"death","name":"don","survived":25,"kills":0,"by":"bot"}
+{"type":"snap","t":1794555238006,"startedAt":1794487437985,"online":1,"rooms":1,"joins":18,"deaths":75,"leaves":17,"peakOnline":1}
