@@ -17,3 +17,8 @@
 {"type":"snap","t":1794534838002,"startedAt":1794487437985,"online":0,"rooms":1,"joins":13,"deaths":50,"leaves":13,"peakOnline":1}
 {"n":78,"t":1794536023825,"type":"join","name":"Palmer","online":1}
 {"type":"snap","t":1794536038001,"startedAt":1794487437985,"online":1,"rooms":1,"joins":14,"deaths":50,"leaves":13,"peakOnline":1}
+{"n":79,"t":1794536057226,"type":"death","name":"Palmer","survived":33,"kills":2,"by":"hazard"}
+{"n":80,"t":1794536067993,"type":"death","name":"Palmer","survived":3,"kills":0,"by":"bot"}
+{"n":81,"t":1794536076193,"type":"death","name":"Palmer","survived":5,"kills":0,"by":"hazard"}
+{"n":82,"t":1794536083494,"type":"leave","name":"Palmer","sessionSec":59}
+{"type":"snap","t":1794536638002,"startedAt":1794487437985,"online":0,"rooms":1,"joins":14,"deaths":53,"leaves":14,"peakOnline":1}
