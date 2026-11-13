@@ -47,3 +47,8 @@
 {"n":101,"t":1794547467733,"type":"leave","name":"Fred","sessionSec":1531}
 {"type":"snap","t":1794548038005,"startedAt":1794487437985,"online":0,"rooms":1,"joins":15,"deaths":70,"leaves":15,"peakOnline":1}
 {"type":"snap","t":1794551638006,"startedAt":1794487437985,"online":0,"rooms":1,"joins":15,"deaths":70,"leaves":15,"peakOnline":1}
+{"n":102,"t":1794553198491,"type":"join","name":"Palmer","online":1}
+{"n":103,"t":1794553206384,"type":"death","name":"Palmer","survived":7,"kills":1,"by":"bot"}
+{"n":104,"t":1794553222185,"type":"death","name":"Palmer","survived":13,"kills":0,"by":"bot"}
+{"n":105,"t":1794553225885,"type":"leave","name":"Palmer","sessionSec":27}
+{"type":"snap","t":1794553438007,"startedAt":1794487437985,"online":0,"rooms":1,"joins":16,"deaths":72,"leaves":16,"peakOnline":1}
