@@ -75,3 +75,7 @@
 {"type":"snap","t":1794574438011,"startedAt":1794487437985,"online":0,"rooms":1,"joins":18,"deaths":81,"leaves":18,"peakOnline":1}
 {"type":"snap","t":1794578038012,"startedAt":1794487437985,"online":0,"rooms":1,"joins":18,"deaths":81,"leaves":18,"peakOnline":1}
 {"type":"snap","t":1794581638020,"startedAt":1794487437985,"online":0,"rooms":1,"joins":18,"deaths":81,"leaves":18,"peakOnline":1}
+{"n":119,"t":1794583979794,"type":"join","name":"Fred","online":1}
+{"n":120,"t":1794583980748,"type":"death","name":"Fred","survived":1,"kills":0,"by":"bot"}
+{"n":121,"t":1794583989180,"type":"death","name":"Fred","survived":4,"kills":0,"by":"bot"}
+{"type":"snap","t":1794584038020,"startedAt":1794487437985,"online":1,"rooms":1,"joins":19,"deaths":83,"leaves":18,"peakOnline":1}
