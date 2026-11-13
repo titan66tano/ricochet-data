@@ -52,3 +52,8 @@
 {"n":104,"t":1794553222185,"type":"death","name":"Palmer","survived":13,"kills":0,"by":"bot"}
 {"n":105,"t":1794553225885,"type":"leave","name":"Palmer","sessionSec":27}
 {"type":"snap","t":1794553438007,"startedAt":1794487437985,"online":0,"rooms":1,"joins":16,"deaths":72,"leaves":16,"peakOnline":1}
+{"n":106,"t":1794553616992,"type":"join","name":"Bruce47","online":1}
+{"n":107,"t":1794553632783,"type":"death","name":"Bruce47","survived":15,"kills":0,"by":"bot"}
+{"n":108,"t":1794553687716,"type":"death","name":"Bruce47","survived":49,"kills":7,"by":"hazard"}
+{"n":109,"t":1794553693717,"type":"leave","name":"Bruce47","sessionSec":76}
+{"type":"snap","t":1794554038007,"startedAt":1794487437985,"online":0,"rooms":1,"joins":17,"deaths":74,"leaves":17,"peakOnline":1}
