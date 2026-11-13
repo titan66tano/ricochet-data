@@ -187,3 +187,35 @@
 {"n":219,"t":1794608020489,"type":"death","name":"Lando da goat","survived":98,"kills":15,"by":"player"}
 {"n":220,"t":1794608021155,"type":"death","name":"Fred","survived":97,"kills":18,"by":"hazard"}
 {"type":"snap","t":1794608038026,"startedAt":1794487437985,"online":2,"rooms":1,"joins":22,"deaths":177,"leaves":20,"peakOnline":2}
+{"n":221,"t":1794608052888,"type":"death","name":"Fred","survived":12,"kills":2,"by":"hazard"}
+{"n":222,"t":1794608071221,"type":"death","name":"Lando da goat","survived":26,"kills":3,"by":"bot"}
+{"n":223,"t":1794608071454,"type":"death","name":"Fred","survived":15,"kills":1,"by":"bot"}
+{"n":224,"t":1794608097088,"type":"death","name":"Fred","survived":22,"kills":2,"by":"hazard"}
+{"n":225,"t":1794608099321,"type":"death","name":"Lando da goat","survived":22,"kills":2,"by":"hazard"}
+{"n":226,"t":1794608113554,"type":"death","name":"Fred","survived":13,"kills":3,"by":"hazard"}
+{"n":227,"t":1794608145221,"type":"death","name":"Lando da goat","survived":43,"kills":2,"by":"bot"}
+{"n":228,"t":1794608146754,"type":"death","name":"Fred","survived":30,"kills":1,"by":"bot"}
+{"n":229,"t":1794608164054,"type":"death","name":"Fred","survived":5,"kills":1,"by":"bot"}
+{"n":230,"t":1794608187521,"type":"death","name":"Fred","survived":19,"kills":3,"by":"player"}
+{"n":231,"t":1794608209521,"type":"death","name":"Fred","survived":18,"kills":0,"by":"bot"}
+{"n":232,"t":1794608228587,"type":"death","name":"Fred","survived":16,"kills":3,"by":"bot"}
+{"n":233,"t":1794608234154,"type":"death","name":"Fred","survived":2,"kills":0,"by":"bot"}
+{"n":234,"t":1794608257154,"type":"death","name":"Fred","survived":19,"kills":2,"by":"hazard"}
+{"n":235,"t":1794608284988,"type":"death","name":"Fred","survived":25,"kills":0,"by":"bot"}
+{"n":236,"t":1794608303822,"type":"death","name":"Fred","survived":15,"kills":0,"by":"bot"}
+{"n":237,"t":1794608313321,"type":"death","name":"Fred","survived":6,"kills":1,"by":"bot"}
+{"n":238,"t":1794608320221,"type":"death","name":"Fred","survived":3,"kills":1,"by":"bot"}
+{"n":239,"t":1794608352554,"type":"death","name":"Lando da goat","survived":197,"kills":20,"by":"hazard"}
+{"n":240,"t":1794608366688,"type":"death","name":"Lando da goat","survived":2,"kills":0,"by":"hazard"}
+{"n":241,"t":1794608382920,"type":"death","name":"Lando da goat","survived":12,"kills":1,"by":"player"}
+{"n":242,"t":1794608406021,"type":"death","name":"Fred","survived":82,"kills":18,"by":"hazard"}
+{"n":243,"t":1794608414888,"type":"death","name":"Lando da goat","survived":28,"kills":1,"by":"hazard"}
+{"n":244,"t":1794608447354,"type":"death","name":"Lando da goat","survived":29,"kills":4,"by":"player"}
+{"n":245,"t":1794608448754,"type":"death","name":"Fred","survived":39,"kills":5,"by":"hazard"}
+{"n":246,"t":1794608518254,"type":"death","name":"Fred","survived":65,"kills":10,"by":"hazard"}
+{"n":247,"t":1794608528453,"type":"death","name":"Fred","survived":4,"kills":0,"by":"bot"}
+{"n":248,"t":1794608565288,"type":"death","name":"Fred","survived":33,"kills":4,"by":"player"}
+{"n":249,"t":1794608570721,"type":"leave","name":"Fred","sessionSec":1870}
+{"n":250,"t":1794608596486,"type":"death","name":"Lando da goat","survived":144,"kills":21,"by":"bot"}
+{"n":251,"t":1794608605255,"type":"leave","name":"Lando da goat","sessionSec":1972}
+{"type":"snap","t":1794608638026,"startedAt":1794487437985,"online":0,"rooms":1,"joins":22,"deaths":206,"leaves":22,"peakOnline":2}
