@@ -15,3 +15,5 @@
 {"n":77,"t":1794530729273,"type":"leave","name":"Palmer Sucks","sessionSec":306}
 {"type":"snap","t":1794531238001,"startedAt":1794487437985,"online":0,"rooms":1,"joins":13,"deaths":50,"leaves":13,"peakOnline":1}
 {"type":"snap","t":1794534838002,"startedAt":1794487437985,"online":0,"rooms":1,"joins":13,"deaths":50,"leaves":13,"peakOnline":1}
+{"n":78,"t":1794536023825,"type":"join","name":"Palmer","online":1}
+{"type":"snap","t":1794536038001,"startedAt":1794487437985,"online":1,"rooms":1,"joins":14,"deaths":50,"leaves":13,"peakOnline":1}
