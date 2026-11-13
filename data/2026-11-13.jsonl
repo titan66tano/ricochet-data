@@ -11,3 +11,6 @@
 {"n":74,"t":1794530600973,"type":"death","name":"Palmer Sucks","survived":22,"kills":2,"by":"hazard"}
 {"n":75,"t":1794530634773,"type":"death","name":"Palmer Sucks","survived":31,"kills":2,"by":"hazard"}
 {"type":"snap","t":1794530638000,"startedAt":1794487437985,"online":1,"rooms":1,"joins":13,"deaths":49,"leaves":12,"peakOnline":1}
+{"n":76,"t":1794530723939,"type":"death","name":"Palmer Sucks","survived":86,"kills":10,"by":"hazard"}
+{"n":77,"t":1794530729273,"type":"leave","name":"Palmer Sucks","sessionSec":306}
+{"type":"snap","t":1794531238001,"startedAt":1794487437985,"online":0,"rooms":1,"joins":13,"deaths":50,"leaves":13,"peakOnline":1}
