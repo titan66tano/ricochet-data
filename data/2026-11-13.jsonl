@@ -60,3 +60,11 @@
 {"n":110,"t":1794555208167,"type":"join","name":"don","online":1}
 {"n":111,"t":1794555233983,"type":"death","name":"don","survived":25,"kills":0,"by":"bot"}
 {"type":"snap","t":1794555238006,"startedAt":1794487437985,"online":1,"rooms":1,"joins":18,"deaths":75,"leaves":17,"peakOnline":1}
+{"n":112,"t":1794555270118,"type":"death","name":"don","survived":18,"kills":0,"by":"hazard"}
+{"n":113,"t":1794555316283,"type":"death","name":"don","survived":22,"kills":3,"by":"hazard"}
+{"n":114,"t":1794555329917,"type":"death","name":"don","survived":7,"kills":0,"by":"bot"}
+{"n":115,"t":1794555339550,"type":"death","name":"don","survived":6,"kills":1,"by":"hazard"}
+{"n":116,"t":1794555342917,"type":"death","name":"don","survived":0,"kills":0,"by":"bot"}
+{"n":117,"t":1794555417483,"type":"death","name":"don","survived":71,"kills":17,"by":"hazard"}
+{"n":118,"t":1794555436484,"type":"leave","name":"don","sessionSec":228}
+{"type":"snap","t":1794555838007,"startedAt":1794487437985,"online":0,"rooms":1,"joins":18,"deaths":81,"leaves":18,"peakOnline":1}
