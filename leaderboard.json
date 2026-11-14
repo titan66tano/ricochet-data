@@ -26,6 +26,12 @@
   },
   {
    "name": "Gramps",
+   "survived": 58,
+   "kills": 11,
+   "t": 1794696044077
+  },
+  {
+   "name": "Gramps",
    "survived": 46,
    "kills": 10,
    "t": 1794695169779
@@ -43,22 +49,16 @@
    "t": 1794695307212
   },
   {
-   "name": "Bill",
-   "survived": 57,
+   "name": "Gramps",
+   "survived": 66,
    "kills": 7,
-   "t": 1794678848276
+   "t": 1794695982611
   },
   {
-   "name": "DaDyBoy",
-   "survived": 27,
-   "kills": 5,
-   "t": 1794695231379
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 25,
-   "kills": 5,
-   "t": 1794695736877
+   "name": "Bridger LeVake",
+   "survived": 61,
+   "kills": 7,
+   "t": 1794696056910
   }
  ],
  "time": [
@@ -87,10 +87,28 @@
    "t": 1794695748277
   },
   {
+   "name": "Gramps",
+   "survived": 66,
+   "kills": 7,
+   "t": 1794695982611
+  },
+  {
+   "name": "Bridger LeVake",
+   "survived": 61,
+   "kills": 7,
+   "t": 1794696056910
+  },
+  {
    "name": "DaDyBoy",
    "survived": 59,
    "kills": 4,
    "t": 1794695891444
+  },
+  {
+   "name": "Gramps",
+   "survived": 58,
+   "kills": 11,
+   "t": 1794696044077
   },
   {
    "name": "Gramps",
@@ -103,24 +121,6 @@
    "survived": 57,
    "kills": 7,
    "t": 1794678848276
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 52,
-   "kills": 12,
-   "t": 1794695820311
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 48,
-   "kills": 3,
-   "t": 1794695394145
-  },
-  {
-   "name": "Gramps",
-   "survived": 46,
-   "kills": 10,
-   "t": 1794695169779
   }
  ]
 }
