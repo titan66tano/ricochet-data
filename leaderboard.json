@@ -7,6 +7,12 @@
    "t": 1794695169779
   },
   {
+   "name": "DaDyBoy",
+   "survived": 33,
+   "kills": 8,
+   "t": 1794695307212
+  },
+  {
    "name": "Bill",
    "survived": 57,
    "kills": 7,
@@ -19,49 +25,49 @@
    "t": 1794695231379
   },
   {
+   "name": "Gramps",
+   "survived": 58,
+   "kills": 4,
+   "t": 1794695305513
+  },
+  {
+   "name": "Gramps",
+   "survived": 23,
+   "kills": 4,
+   "t": 1794695337445
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 23,
+   "kills": 3,
+   "t": 1794695269812
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 13,
+   "kills": 3,
+   "t": 1794695342645
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 12,
+   "kills": 3,
+   "t": 1794695325045
+  },
+  {
    "name": "Bill",
    "survived": 37,
    "kills": 2,
    "t": 1794680259007
-  },
-  {
-   "name": "Bill",
-   "survived": 18,
-   "kills": 2,
-   "t": 1794695175512
-  },
-  {
-   "name": "firstPlayer",
-   "survived": 11,
-   "kills": 2,
-   "t": 1794635410053
-  },
-  {
-   "name": "Bill",
-   "survived": 18,
-   "kills": 1,
-   "t": 1794677909145
-  },
-  {
-   "name": "Gramps",
-   "survived": 18,
-   "kills": 1,
-   "t": 1794695195445
-  },
-  {
-   "name": "Bill",
-   "survived": 7,
-   "kills": 1,
-   "t": 1794695143113
-  },
-  {
-   "name": "Gramps",
-   "survived": 3,
-   "kills": 1,
-   "t": 1794695202479
   }
  ],
  "time": [
+  {
+   "name": "Gramps",
+   "survived": 58,
+   "kills": 4,
+   "t": 1794695305513
+  },
   {
    "name": "Bill",
    "survived": 57,
@@ -82,9 +88,27 @@
   },
   {
    "name": "DaDyBoy",
+   "survived": 33,
+   "kills": 8,
+   "t": 1794695307212
+  },
+  {
+   "name": "DaDyBoy",
    "survived": 27,
    "kills": 5,
    "t": 1794695231379
+  },
+  {
+   "name": "Gramps",
+   "survived": 23,
+   "kills": 4,
+   "t": 1794695337445
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 23,
+   "kills": 3,
+   "t": 1794695269812
   },
   {
    "name": "Bill",
@@ -97,30 +121,6 @@
    "survived": 18,
    "kills": 1,
    "t": 1794677909145
-  },
-  {
-   "name": "Gramps",
-   "survived": 18,
-   "kills": 1,
-   "t": 1794695195445
-  },
-  {
-   "name": "firstPlayer",
-   "survived": 11,
-   "kills": 2,
-   "t": 1794635410053
-  },
-  {
-   "name": "Bill",
-   "survived": 9,
-   "kills": 0,
-   "t": 1794677875179
-  },
-  {
-   "name": "Bill",
-   "survived": 7,
-   "kills": 1,
-   "t": 1794695143113
   }
  ]
 }
