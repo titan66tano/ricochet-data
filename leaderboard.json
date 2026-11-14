@@ -40,6 +40,12 @@
   },
   {
    "name": "palm",
+   "survived": 7,
+   "kills": 0,
+   "t": 1794634812765
+  },
+  {
+   "name": "palm",
    "survived": 5,
    "kills": 0,
    "t": 1794634415633
