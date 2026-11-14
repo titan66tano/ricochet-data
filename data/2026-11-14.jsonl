@@ -321,3 +321,15 @@
 {"type":"snap","t":1794623038031,"startedAt":1794487437985,"online":0,"rooms":1,"joins":29,"deaths":504,"leaves":29,"peakOnline":6}
 {"type":"snap","t":1794627238030,"startedAt":1794487437985,"online":0,"rooms":1,"joins":29,"deaths":504,"leaves":29,"peakOnline":6}
 {"type":"snap","t":1794630838032,"startedAt":1794487437985,"online":0,"rooms":1,"joins":29,"deaths":504,"leaves":29,"peakOnline":6}
+{"n":564,"t":1794631651755,"type":"join","name":"Bridger LeVake","online":1}
+{"n":565,"t":1794631708763,"type":"death","name":"Bridger LeVake","survived":57,"kills":11,"by":"bot"}
+{"n":566,"t":1794631716063,"type":"death","name":"Bridger LeVake","survived":4,"kills":0,"by":"bot"}
+{"n":567,"t":1794631743064,"type":"death","name":"Bridger LeVake","survived":24,"kills":3,"by":"bot"}
+{"n":568,"t":1794631753330,"type":"death","name":"Bridger LeVake","survived":6,"kills":0,"by":"bot"}
+{"n":569,"t":1794631838496,"type":"death","name":"Bridger LeVake","survived":82,"kills":5,"by":"hazard"}
+{"n":570,"t":1794631843163,"type":"death","name":"Bridger LeVake","survived":1,"kills":0,"by":"bot"}
+{"n":571,"t":1794631856830,"type":"death","name":"Bridger LeVake","survived":11,"kills":2,"by":"bot"}
+{"n":572,"t":1794631874197,"type":"death","name":"Bridger LeVake","survived":14,"kills":1,"by":"hazard"}
+{"n":573,"t":1794631925597,"type":"death","name":"Bridger LeVake","survived":48,"kills":10,"by":"hazard"}
+{"n":574,"t":1794631928997,"type":"leave","name":"Bridger LeVake","sessionSec":277}
+{"type":"snap","t":1794632038032,"startedAt":1794487437985,"online":0,"rooms":1,"joins":30,"deaths":513,"leaves":30,"peakOnline":6}
