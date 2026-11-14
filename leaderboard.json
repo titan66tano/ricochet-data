@@ -1,6 +1,12 @@
 {
  "kills": [
   {
+   "name": "Bill",
+   "survived": 57,
+   "kills": 7,
+   "t": 1794678848276
+  },
+  {
    "name": "firstPlayer",
    "survived": 11,
    "kills": 2,
@@ -14,6 +20,12 @@
   }
  ],
  "time": [
+  {
+   "name": "Bill",
+   "survived": 57,
+   "kills": 7,
+   "t": 1794678848276
+  },
   {
    "name": "Bill",
    "survived": 18,
