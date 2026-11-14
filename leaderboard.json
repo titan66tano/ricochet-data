@@ -7,6 +7,12 @@
    "t": 1794678848276
   },
   {
+   "name": "Bill",
+   "survived": 37,
+   "kills": 2,
+   "t": 1794680259007
+  },
+  {
    "name": "firstPlayer",
    "survived": 11,
    "kills": 2,
@@ -25,6 +31,12 @@
    "survived": 57,
    "kills": 7,
    "t": 1794678848276
+  },
+  {
+   "name": "Bill",
+   "survived": 37,
+   "kills": 2,
+   "t": 1794680259007
   },
   {
    "name": "Bill",
