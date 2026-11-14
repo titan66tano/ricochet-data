@@ -1,0 +1,24 @@
+{
+ "kills": [
+  {
+   "name": "palm",
+   "survived": 7,
+   "kills": 1,
+   "t": 1794634450066
+  }
+ ],
+ "time": [
+  {
+   "name": "palm",
+   "survived": 7,
+   "kills": 1,
+   "t": 1794634450066
+  },
+  {
+   "name": "palm",
+   "survived": 5,
+   "kills": 0,
+   "t": 1794634415633
+  }
+ ]
+}
