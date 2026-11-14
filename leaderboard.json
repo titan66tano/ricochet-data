@@ -43,6 +43,12 @@
    "t": 1794695779845
   },
   {
+   "name": "Bridger LeVake",
+   "survived": 75,
+   "kills": 8,
+   "t": 1794696153710
+  },
+  {
    "name": "DaDyBoy",
    "survived": 33,
    "kills": 8,
@@ -53,12 +59,6 @@
    "survived": 66,
    "kills": 7,
    "t": 1794695982611
-  },
-  {
-   "name": "Bridger LeVake",
-   "survived": 61,
-   "kills": 7,
-   "t": 1794696056910
   }
  ],
  "time": [
@@ -85,6 +85,12 @@
    "survived": 79,
    "kills": 13,
    "t": 1794695748277
+  },
+  {
+   "name": "Bridger LeVake",
+   "survived": 75,
+   "kills": 8,
+   "t": 1794696153710
   },
   {
    "name": "Gramps",
@@ -115,12 +121,6 @@
    "survived": 58,
    "kills": 4,
    "t": 1794695305513
-  },
-  {
-   "name": "Bill",
-   "survived": 57,
-   "kills": 7,
-   "t": 1794678848276
   }
  ]
 }
