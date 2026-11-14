@@ -5,14 +5,38 @@
    "survived": 11,
    "kills": 2,
    "t": 1794635410053
+  },
+  {
+   "name": "Bill",
+   "survived": 18,
+   "kills": 1,
+   "t": 1794677909145
   }
  ],
  "time": [
+  {
+   "name": "Bill",
+   "survived": 18,
+   "kills": 1,
+   "t": 1794677909145
+  },
   {
    "name": "firstPlayer",
    "survived": 11,
    "kills": 2,
    "t": 1794635410053
+  },
+  {
+   "name": "Bill",
+   "survived": 9,
+   "kills": 0,
+   "t": 1794677875179
+  },
+  {
+   "name": "Bill",
+   "survived": 5,
+   "kills": 0,
+   "t": 1794677886779
   }
  ]
 }
