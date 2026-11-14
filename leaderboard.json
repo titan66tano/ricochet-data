@@ -100,6 +100,12 @@
   },
   {
    "name": "DaDyBoy",
+   "survived": 37,
+   "kills": 2,
+   "t": 1794695708245
+  },
+  {
+   "name": "DaDyBoy",
    "survived": 33,
    "kills": 8,
    "t": 1794695307212
@@ -115,12 +121,6 @@
    "survived": 27,
    "kills": 5,
    "t": 1794695231379
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 24,
-   "kills": 3,
-   "t": 1794695447712
   }
  ]
 }
