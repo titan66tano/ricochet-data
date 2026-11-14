@@ -337,3 +337,6 @@
 {"n":576,"t":1794633690993,"type":"death","name":"palmer","survived":1,"kills":0,"by":"bot"}
 {"n":577,"t":1794633693160,"type":"leave","name":"palmer","sessionSec":4}
 {"type":"snap","t":1794633838033,"startedAt":1794487437985,"online":0,"rooms":1,"joins":31,"deaths":514,"leaves":31,"peakOnline":6}
+{"n":1,"t":1794634340823,"type":"server_start"}
+{"n":2,"t":1794634348133,"type":"death","name":"lucille","bot":true,"survived":7,"kills":0,"humanKills":0,"botKills":0,"maxSpeed":273,"bounces":0,"brakes":0,"killer":"jerry","killerType":"named bot","by":"bot"}
+{"type":"snap","t":1794634355824,"startedAt":1794634340820,"online":0,"rooms":1,"joins":0,"deaths":0,"leaves":0,"peakOnline":0}
