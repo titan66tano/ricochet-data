@@ -1,6 +1,12 @@
 {
  "kills": [
   {
+   "name": "Bridger LeVake",
+   "survived": 519,
+   "kills": 86,
+   "t": 1794700265667
+  },
+  {
    "name": "Gramps",
    "survived": 407,
    "kills": 45,
@@ -53,15 +59,15 @@
    "survived": 142,
    "kills": 15,
    "t": 1794696983408
-  },
-  {
-   "name": "Bridger LeVake",
-   "survived": 140,
-   "kills": 15,
-   "t": 1794695944344
   }
  ],
  "time": [
+  {
+   "name": "Bridger LeVake",
+   "survived": 519,
+   "kills": 86,
+   "t": 1794700265667
+  },
   {
    "name": "Gramps",
    "survived": 407,
@@ -115,12 +121,6 @@
    "survived": 98,
    "kills": 17,
    "t": 1794697167574
-  },
-  {
-   "name": "Gramps",
-   "survived": 93,
-   "kills": 7,
-   "t": 1794697188342
   }
  ]
 }
