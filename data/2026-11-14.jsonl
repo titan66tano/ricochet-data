@@ -484,3 +484,6 @@
 {"n":144,"t":1794634939632,"type":"death","name":"nancy","bot":true,"survived":1,"kills":0,"humanKills":0,"botKills":0,"maxSpeed":241,"bounces":0,"brakes":0,"killer":"Ethel","killerType":"filler bot","by":"bot"}
 {"n":145,"t":1794634940664,"type":"death","name":"lucille","bot":true,"survived":15,"kills":0,"humanKills":0,"botKills":0,"maxSpeed":389,"bounces":3,"brakes":0,"killer":"polly","killerType":"filler bot","by":"bot"}
 {"type":"snap","t":1794634940823,"startedAt":1794634340820,"online":0,"rooms":1,"joins":2,"deaths":7,"leaves":2,"peakOnline":1}
+{"n":1,"t":1794635097378,"type":"server_start"}
+{"n":2,"t":1794635112146,"type":"death","name":"otis","bot":true,"survived":14,"kills":2,"humanKills":0,"botKills":2,"maxSpeed":1910,"bounces":77,"brakes":1,"killer":null,"killerType":"hazard","by":"hazard"}
+{"type":"snap","t":1794635112379,"startedAt":1794635097375,"online":0,"rooms":1,"joins":0,"deaths":0,"leaves":0,"peakOnline":0}
