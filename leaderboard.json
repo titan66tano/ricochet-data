@@ -7,10 +7,28 @@
    "t": 1794695596178
   },
   {
+   "name": "Bridger LeVake",
+   "survived": 79,
+   "kills": 13,
+   "t": 1794695748277
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 52,
+   "kills": 12,
+   "t": 1794695820311
+  },
+  {
    "name": "Gramps",
    "survived": 46,
    "kills": 10,
    "t": 1794695169779
+  },
+  {
+   "name": "Gramps",
+   "survived": 88,
+   "kills": 9,
+   "t": 1794695779845
   },
   {
    "name": "DaDyBoy",
@@ -31,34 +49,16 @@
    "t": 1794695231379
   },
   {
+   "name": "DaDyBoy",
+   "survived": 25,
+   "kills": 5,
+   "t": 1794695736877
+  },
+  {
    "name": "Gramps",
    "survived": 58,
    "kills": 4,
    "t": 1794695305513
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 28,
-   "kills": 4,
-   "t": 1794695544512
-  },
-  {
-   "name": "Gramps",
-   "survived": 23,
-   "kills": 4,
-   "t": 1794695337445
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 48,
-   "kills": 3,
-   "t": 1794695394145
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 24,
-   "kills": 3,
-   "t": 1794695447712
   }
  ],
  "time": [
@@ -67,6 +67,18 @@
    "survived": 221,
    "kills": 35,
    "t": 1794695596178
+  },
+  {
+   "name": "Gramps",
+   "survived": 88,
+   "kills": 9,
+   "t": 1794695779845
+  },
+  {
+   "name": "Bridger LeVake",
+   "survived": 79,
+   "kills": 13,
+   "t": 1794695748277
   },
   {
    "name": "Gramps",
@@ -79,6 +91,12 @@
    "survived": 57,
    "kills": 7,
    "t": 1794678848276
+  },
+  {
+   "name": "DaDyBoy",
+   "survived": 52,
+   "kills": 12,
+   "t": 1794695820311
   },
   {
    "name": "DaDyBoy",
@@ -103,24 +121,6 @@
    "survived": 37,
    "kills": 2,
    "t": 1794695708245
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 33,
-   "kills": 8,
-   "t": 1794695307212
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 28,
-   "kills": 4,
-   "t": 1794695544512
-  },
-  {
-   "name": "DaDyBoy",
-   "survived": 27,
-   "kills": 5,
-   "t": 1794695231379
   }
  ]
 }
