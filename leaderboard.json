@@ -1,16 +1,34 @@
 {
  "kills": [
   {
+   "name": "Gramps",
+   "survived": 46,
+   "kills": 10,
+   "t": 1794695169779
+  },
+  {
    "name": "Bill",
    "survived": 57,
    "kills": 7,
    "t": 1794678848276
   },
   {
+   "name": "DaDyBoy",
+   "survived": 27,
+   "kills": 5,
+   "t": 1794695231379
+  },
+  {
    "name": "Bill",
    "survived": 37,
    "kills": 2,
    "t": 1794680259007
+  },
+  {
+   "name": "Bill",
+   "survived": 18,
+   "kills": 2,
+   "t": 1794695175512
   },
   {
    "name": "firstPlayer",
@@ -23,6 +41,24 @@
    "survived": 18,
    "kills": 1,
    "t": 1794677909145
+  },
+  {
+   "name": "Gramps",
+   "survived": 18,
+   "kills": 1,
+   "t": 1794695195445
+  },
+  {
+   "name": "Bill",
+   "survived": 7,
+   "kills": 1,
+   "t": 1794695143113
+  },
+  {
+   "name": "Gramps",
+   "survived": 3,
+   "kills": 1,
+   "t": 1794695202479
   }
  ],
  "time": [
@@ -33,16 +69,40 @@
    "t": 1794678848276
   },
   {
+   "name": "Gramps",
+   "survived": 46,
+   "kills": 10,
+   "t": 1794695169779
+  },
+  {
    "name": "Bill",
    "survived": 37,
    "kills": 2,
    "t": 1794680259007
   },
   {
+   "name": "DaDyBoy",
+   "survived": 27,
+   "kills": 5,
+   "t": 1794695231379
+  },
+  {
+   "name": "Bill",
+   "survived": 18,
+   "kills": 2,
+   "t": 1794695175512
+  },
+  {
    "name": "Bill",
    "survived": 18,
    "kills": 1,
    "t": 1794677909145
+  },
+  {
+   "name": "Gramps",
+   "survived": 18,
+   "kills": 1,
+   "t": 1794695195445
   },
   {
    "name": "firstPlayer",
@@ -58,27 +118,9 @@
   },
   {
    "name": "Bill",
-   "survived": 5,
-   "kills": 0,
-   "t": 1794677886779
-  },
-  {
-   "name": "Bill",
-   "survived": 4,
-   "kills": 0,
-   "t": 1794678787310
-  },
-  {
-   "name": "Bill",
-   "survived": 2,
-   "kills": 0,
-   "t": 1794678565078
-  },
-  {
-   "name": "Bill",
-   "survived": 1,
-   "kills": 0,
-   "t": 1794695115912
+   "survived": 7,
+   "kills": 1,
+   "t": 1794695143113
   }
  ]
 }
