@@ -311,3 +311,11 @@
 {"n":555,"t":1794622433819,"type":"death","name":"Bridger LeVake","survived":28,"kills":1,"by":"hazard"}
 {"n":556,"t":1794622437119,"type":"death","name":"Bridger LeVake","survived":0,"kills":0,"by":"hazard"}
 {"type":"snap","t":1794622438031,"startedAt":1794487437985,"online":2,"rooms":1,"joins":29,"deaths":499,"leaves":27,"peakOnline":6}
+{"n":557,"t":1794622482486,"type":"death","name":"Bridger LeVake","survived":41,"kills":4,"by":"player"}
+{"n":558,"t":1794622486119,"type":"death","name":"Bridger LeVake","survived":0,"kills":0,"by":"hazard"}
+{"n":559,"t":1794622491853,"type":"death","name":"Gramps","survived":99,"kills":13,"by":"hazard"}
+{"n":560,"t":1794622578119,"type":"death","name":"Bridger LeVake","survived":89,"kills":10,"by":"player"}
+{"n":561,"t":1794622584552,"type":"death","name":"Gramps","survived":86,"kills":13,"by":"hazard"}
+{"n":562,"t":1794622587488,"type":"leave","name":"Bridger LeVake","sessionSec":4203}
+{"n":563,"t":1794622591320,"type":"leave","name":"Gramps","sessionSec":4224}
+{"type":"snap","t":1794623038031,"startedAt":1794487437985,"online":0,"rooms":1,"joins":29,"deaths":504,"leaves":29,"peakOnline":6}
