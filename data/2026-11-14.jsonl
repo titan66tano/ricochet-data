@@ -135,3 +135,47 @@
 {"n":384,"t":1794619424393,"type":"death","name":"palmer","survived":9,"kills":2,"by":"bot"}
 {"n":385,"t":1794619432193,"type":"death","name":"Lando da goat","survived":23,"kills":1,"by":"bot"}
 {"type":"snap","t":1794619438029,"startedAt":1794487437985,"online":5,"rooms":1,"joins":29,"deaths":331,"leaves":24,"peakOnline":6}
+{"n":386,"t":1794619444027,"type":"death","name":"hazard","survived":39,"kills":4,"by":"hazard"}
+{"n":387,"t":1794619450727,"type":"death","name":"Lando da goat","survived":15,"kills":3,"by":"bot"}
+{"n":388,"t":1794619457393,"type":"death","name":"Lando da goat","survived":2,"kills":0,"by":"player"}
+{"n":389,"t":1794619483328,"type":"death","name":"Lando da goat","survived":23,"kills":1,"by":"player"}
+{"n":390,"t":1794619485594,"type":"death","name":"hazard","survived":39,"kills":7,"by":"player"}
+{"n":391,"t":1794619505393,"type":"death","name":"palmer","survived":77,"kills":15,"by":"hazard"}
+{"n":392,"t":1794619522893,"type":"death","name":"palmer","survived":10,"kills":1,"by":"player"}
+{"n":393,"t":1794619527060,"type":"death","name":"palmer","survived":0,"kills":0,"by":"bot"}
+{"n":394,"t":1794619539926,"type":"death","name":"palmer","survived":10,"kills":0,"by":"player"}
+{"n":395,"t":1794619556093,"type":"death","name":"palmer","survived":13,"kills":3,"by":"player"}
+{"n":396,"t":1794619560760,"type":"death","name":"Lando da goat","survived":73,"kills":6,"by":"player"}
+{"n":397,"t":1794619565326,"type":"death","name":"palmer","survived":5,"kills":0,"by":"player"}
+{"n":398,"t":1794619573793,"type":"death","name":"hazard","survived":83,"kills":20,"by":"hazard"}
+{"n":399,"t":1794619596126,"type":"death","name":"Lando da goat","survived":18,"kills":1,"by":"bot"}
+{"n":400,"t":1794619596460,"type":"death","name":"hazard","survived":16,"kills":0,"by":"player"}
+{"n":401,"t":1794619605361,"type":"death","name":"hazard","survived":6,"kills":0,"by":"bot"}
+{"n":402,"t":1794619606726,"type":"death","name":"Lando da goat","survived":4,"kills":0,"by":"bot"}
+{"n":403,"t":1794619612293,"type":"death","name":"palmer","survived":41,"kills":6,"by":"hazard"}
+{"n":404,"t":1794619617793,"type":"death","name":"hazard","survived":9,"kills":0,"by":"bot"}
+{"n":405,"t":1794619629626,"type":"death","name":"palmer","survived":13,"kills":1,"by":"bot"}
+{"n":406,"t":1794619644194,"type":"death","name":"Bridger LeVake","survived":5,"kills":1,"by":"bot"}
+{"n":407,"t":1794619656793,"type":"death","name":"palmer","survived":24,"kills":0,"by":"player"}
+{"n":408,"t":1794619665126,"type":"death","name":"Bridger LeVake","survived":17,"kills":1,"by":"bot"}
+{"n":409,"t":1794619687226,"type":"death","name":"Bridger LeVake","survived":19,"kills":3,"by":"bot"}
+{"n":410,"t":1794619697859,"type":"death","name":"palmer","survived":38,"kills":3,"by":"player"}
+{"n":411,"t":1794619712326,"type":"death","name":"palmer","survived":7,"kills":0,"by":"player"}
+{"n":412,"t":1794619741627,"type":"death","name":"Bridger LeVake","survived":51,"kills":2,"by":"hazard"}
+{"n":413,"t":1794619751727,"type":"death","name":"palmer","survived":19,"kills":1,"by":"hazard"}
+{"n":414,"t":1794619752959,"type":"death","name":"Bridger LeVake","survived":8,"kills":0,"by":"player"}
+{"n":415,"t":1794619778759,"type":"death","name":"palmer","survived":23,"kills":4,"by":"hazard"}
+{"n":416,"t":1794619784326,"type":"death","name":"Bridger LeVake","survived":28,"kills":2,"by":"player"}
+{"n":417,"t":1794619795627,"type":"leave","name":"Palmer","sessionSec":998}
+{"n":418,"t":1794619798093,"type":"leave","name":"Palmer","sessionSec":989}
+{"n":419,"t":1794619822392,"type":"death","name":"Bridger LeVake","survived":35,"kills":10,"by":"hazard"}
+{"n":420,"t":1794619837859,"type":"death","name":"Bridger LeVake","survived":12,"kills":2,"by":"player"}
+{"n":421,"t":1794619845126,"type":"death","name":"Bridger LeVake","survived":4,"kills":0,"by":"bot"}
+{"n":422,"t":1794619851227,"type":"death","name":"Bridger LeVake","survived":1,"kills":0,"by":"bot"}
+{"n":423,"t":1794619885827,"type":"death","name":"Lando da goat","survived":275,"kills":35,"by":"hazard"}
+{"n":424,"t":1794619893060,"type":"death","name":"Bridger LeVake","survived":38,"kills":3,"by":"hazard"}
+{"n":425,"t":1794619906492,"type":"death","name":"Bridger LeVake","survived":9,"kills":2,"by":"bot"}
+{"n":426,"t":1794619930959,"type":"death","name":"Lando da goat","survived":18,"kills":3,"by":"hazard"}
+{"n":427,"t":1794619953593,"type":"leave","name":"palmer","sessionSec":1141}
+{"n":428,"t":1794620023125,"type":"death","name":"Lando da goat","survived":16,"kills":0,"by":"bot"}
+{"type":"snap","t":1794620038029,"startedAt":1794487437985,"online":2,"rooms":1,"joins":29,"deaths":371,"leaves":27,"peakOnline":6}
