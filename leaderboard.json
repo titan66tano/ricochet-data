@@ -8,6 +8,12 @@
   },
   {
    "name": "Gramps",
+   "survived": 283,
+   "kills": 53,
+   "t": 1794886797460
+  },
+  {
+   "name": "Gramps",
    "survived": 407,
    "kills": 45,
    "t": 1794697979105
@@ -53,12 +59,6 @@
    "survived": 147,
    "kills": 22,
    "t": 1794883378159
-  },
-  {
-   "name": "Gramps",
-   "survived": 147,
-   "kills": 21,
-   "t": 1794886142585
   }
  ],
  "time": [
@@ -73,6 +73,12 @@
    "survived": 407,
    "kills": 45,
    "t": 1794697979105
+  },
+  {
+   "name": "Gramps",
+   "survived": 283,
+   "kills": 53,
+   "t": 1794886797460
   },
   {
    "name": "Gramps",
@@ -115,12 +121,6 @@
    "survived": 147,
    "kills": 21,
    "t": 1794886142585
-  },
-  {
-   "name": "Gramps",
-   "survived": 145,
-   "kills": 17,
-   "t": 1794697336940
   }
  ]
 }
